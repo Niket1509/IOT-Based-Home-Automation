@@ -1,18 +1,3 @@
-/**********************************************************************************
- *  TITLE: Blynk 2.0 + Manual Switch (Latched) control 4 Relays using NodeMCU (Real time feedback) (No Wi-Fi control)
- *  I have Modified the Blynk.Edgent.Edgent_ESP8266 example code (https://blynk.io/) for this project
- *  Click on the following links to learn more. 
- *  YouTube Video: https://youtu.be/O9VYZqWPNEQ
- *  Related Blog : https://iotcircuithub.com/home-automation-using-nodemcu-and-blynk/
- *  by Subhajit (Tech StudyCell)
- *  Preferences--> Aditional boards Manager URLs : 
- *  https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
- *  
- *  Download Board ESP8266 NodeMCU : https://github.com/esp8266/Arduino
- *  Download the libraries
- *  Blynk 1.0.1 Library:  https://github.com/blynkkk/blynk-library
- **********************************************************************************/
-
 // Fill-in information from your Blynk Template here
 #define BLYNK_TEMPLATE_ID "TMPLttDB8w6l"
 #define BLYNK_DEVICE_NAME "nodemcu"
